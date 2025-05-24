@@ -1,0 +1,6 @@
+[[collection]]
+type = "card"
+title = "Bookmark"
+link = "https://github.com/Bitlatte/bookmark"
+content = "A small command-line interface for quickly saving and navigating to directories."
+tags = ["go", "cli"]
