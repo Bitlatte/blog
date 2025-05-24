@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>The Cold Brew</title>
+	<subtitle>It&#x27;s a blog. I write about things. What do you want me to say?</subtitle>
+	<link href="https://bitlatte.dev/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://bitlatte.dev/posts/"/>
+	<updated>2025-05-23T00:00:00+00:00</updated>
+	<id>https://bitlatte.dev/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Welcome</title>
+		<published>2025-05-23T00:00:00+00:00</published>
+		<updated>2025-05-23T00:00:00+00:00</updated>
+		<link href="https://bitlatte.dev/posts/welcome/" type="text/html"/>
+		<id>https://bitlatte.dev/posts/welcome/</id>
+		<content type="html">&lt;h1 id=&quot;welcome-to-the-adventure&quot;&gt;Welcome to the Adventure!&lt;a class=&quot;zola-anchor&quot; href=&quot;#welcome-to-the-adventure&quot; aria-label=&quot;Anchor link for: welcome-to-the-adventure&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;Hello everyone, and welcome to my little corner of the internet.&lt;&#x2F;p&gt;
+&lt;p&gt;For a while now, I&#x27;ve been wanting a space to share the ideas that bubble up and the research that I dive into. This blog is that space – a place to explore different concepts, present findings, and connect with others who are curious about similar things.&lt;&#x2F;p&gt;
+&lt;p&gt;You can expect to find a good dose of my thoughts and research here. Down the line, I might also sprinkle in a tutorial or two when inspiration strikes for something I think would be helpful to share.&lt;&#x2F;p&gt;
+&lt;p&gt;My main goal is to put these thoughts out into the world and hopefully spark some interesting conversations and connections.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for joining me on this new adventure!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

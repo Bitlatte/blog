@@ -10,6 +10,10 @@
         <loc>https://bitlatte.dev/posts/</loc>
     </url>
     <url>
+        <loc>https://bitlatte.dev/posts/welcome/</loc>
+        <lastmod>2025-05-23</lastmod>
+    </url>
+    <url>
         <loc>https://bitlatte.dev/tags/</loc>
     </url>
 </urlset>
