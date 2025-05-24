@@ -1,5 +1,5 @@
 +++
-title = "Welcome"
+title = "Welcome to the Adventure"
 date = 2025-05-23
 draft = false
 +++
