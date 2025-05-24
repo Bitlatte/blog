@@ -11,7 +11,7 @@ footer = false
 name = "Bitlatte"
 # id = "jhonwick"
 # bio = ""
-# avatar = "img/avatar.webp"
+avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/Bitlatte" },
     { name = "Email", icon = "email", url = "mailto:cobymckinney2025@gmail.com" },
