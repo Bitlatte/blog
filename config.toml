@@ -26,7 +26,7 @@ highlight_themes_css = [
   { theme = "serene-light", filename = "hl-light.css" },
   { theme = "serene-dark", filename = "hl-dark.css" },
 ]
-render_emoji = false
+render_emoji = true
 external_links_target_blank = true
 external_links_no_follow = true
 external_links_no_referrer = true
