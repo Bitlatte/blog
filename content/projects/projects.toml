@@ -4,3 +4,10 @@ title = "Bookmark"
 link = "https://github.com/Bitlatte/bookmark"
 content = "A small command-line interface for quickly saving and navigating to directories."
 tags = ["go", "cli"]
+
+[[collection]]
+type = "card"
+title = "S.H.I.T"
+link = "https://github.com/Bitlatte/S.H.I.T"
+content = "A shitty little static site generator."
+tags = ["go", "cli"]
