@@ -42,7 +42,7 @@ My self-hosted media environment is built upon a two-server setup, a decision dr
     * **Download Client:** SABnzbd (for Usenet)
     * **Reverse Proxy:** Caddy (for secure and simplified remote access)
 
-![Dell R710 Server in Rack](/img/DELL_R710.jpg)
+![Dell R710 Server in Rack](/img/my_self_hosted_media_setup/DELL_R710.jpg)
 
 ### Server 2: The 'Media Fortress' & Streaming Powerhouse - Supermicro 6028U-TR4T+
 
@@ -57,7 +57,7 @@ My self-hosted media environment is built upon a two-server setup, a decision dr
 * **Media Server Application:** Jellyfin (installed as a TrueNAS Scale App). Jellyfin was placed on this server primarily due to the ease of installing and passing through an AMD RX 590 GPU, enabling efficient hardware transcoding. The Supermicro motherboard provided the necessary GPU power pins, which my Dell R710 motherboard lacked.
 * **Transcoding:** AMD RX 590 GPU
 
-![Supermicro Server in Rack](/img/SUPERMICRO.jpg)
+![Supermicro Server in Rack](/img/my_self_hosted_media_setup/SUPERMICRO.jpg)
 
 ### Usenet Infrastructure
 
@@ -95,11 +95,11 @@ Setting up Jellyfin on the Supermicro was mostly straightforward, with one hardw
 * **GPU Passthrough & Hardware Choice:** A primary reason for running Jellyfin on the TrueNAS server was to leverage its AMD RX 590 GPU for hardware transcoding. The Supermicro motherboard provided the necessary GPU power pins, which my Dell R710 motherboard lacked. TrueNAS Scale has a straightforward option to pass through an AMD GPU to the Jellyfin application.
 * **The GPU Fitment Challenge:** One unexpected issue was the physical size of the RX 590. It wouldn't fit into the server chassis with its fans attached. My solution was to carefully remove the GPU's fan shroud and fans, leaving just the PCB and heatsink. 
 
-![AMD RX 590 GPU with fans removed](/img/GPU_NO_FANS.jpg)
+![AMD RX 590 GPU with fans removed](/img/my_self_hosted_media_setup/GPU_NO_FANS.jpg)
 
 This allowed it to fit, and thankfully, server airflow seems sufficient for cooling so far. 
 
-![Modified AMD RX 590 GPU installed in Supermicro server](/img/GPU_IN_SERVER.jpg)
+![Modified AMD RX 590 GPU installed in Supermicro server](/img/my_self_hosted_media_setup/GPU_IN_SERVER.jpg)
 
 (*Disclaimer: Modifying hardware like this carries risks, including potential damage or overheating if not done carefully and with adequate alternative cooling. Proceed with caution if you attempt something similar.*)
 
