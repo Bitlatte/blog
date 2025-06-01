@@ -3,7 +3,7 @@ title = "What It's Really Like to Code with AI"
 description = "An honest account of using generative AI for the heavy lifting in a personal coding project, exploring the productivity boosts, surprising challenges, and the complex feelings that come with an AI coding partner."
 date = 2025-05-31
 updated = 2025-05-31
-draft = true
+draft = false
 
 [taxonomies]
 categories = ["artificial intelligence"] 
