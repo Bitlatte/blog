@@ -14,13 +14,7 @@ tags = [
 ]
 +++
 
-# Introduction
-
 This is a living document, a collection of field notes from my experience using Arch Linux as my daily driver for software development and gaming. Forget the abstract philosophy; this is about the practical realities—the setup, the software that works, the problems I encounter, and how I solve them.
-
-# Field Notes
-
-This is the running log of my system. Updates, fixes, and discoveries will be added here as they happen.
 
 ## June 7, 2025
 
