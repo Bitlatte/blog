@@ -1,5 +1,12 @@
 [[collection]]
 type = "card"
+title = "Squawk"
+link = "https://github.com/Bitlatte/Squawk"
+content = "Listen to real-time air traffic control feeds, view flight data, and more."
+tags = ["data", "mp3", "web"]
+
+[[collection]]
+type = "card"
 title = "Bookmark"
 link = "https://github.com/Bitlatte/bookmark"
 content = "A small command-line interface for quickly saving and navigating to directories."
