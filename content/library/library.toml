@@ -15,3 +15,12 @@ content = "All our lives are constrained by limited space and time, limits that 
 link = "https://algorithmstoliveby.com/"
 img = "/img/books/algorithms_to_live_by.jpg"
 footer = "In Progress"
+
+[[collection]]
+type = "art"
+title = "The Art of War"
+subtitle = "Sun Tzu"
+content = "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike."
+link = "https://www.amazon.com/Art-War-Sun-Tzu/dp/081331951X"
+img = "/img/books/art_of_war.jpg"
+footer = "want to read"
