@@ -24,3 +24,12 @@ content = "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of mil
 link = "https://www.amazon.com/Art-War-Sun-Tzu/dp/081331951X"
 img = "/img/books/art_of_war.jpg"
 footer = "want to read"
+
+[[collection]]
+type = "art"
+title = "Atomic Habits"
+subtitle = "James Clear"
+content = "Atomic Habits is the most comprehensive and practical guide on how to create good habits, break bad ones, and get 1 percent better every day. I do not believe you will find a more actionable book on the subject of habits and improvement."
+link = "https://jamesclear.com/atomic-habits"
+img = "/img/books/atomic_habits.webp"
+footer = "want to read"
