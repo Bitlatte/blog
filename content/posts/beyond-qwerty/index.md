@@ -10,7 +10,7 @@ These questions became impossible to ignore when I recently switched to a modern
 
 Most of us use QWERTY without a second thought. Patented by Christopher Latham Sholes in 1874, its primary design goal was not user comfort or speed, but a mechanical necessity. It was engineered to slow typists down just enough to prevent the physical arms of a mechanical typewriter from clashing and jamming. To achieve this, it strategically separated common letter pairings like 'th' and 'st'.
 
-![QWERTY Layout](qwerty.webp)
+![QWERTY Layout](QWERTY.webp)
 
 The Problem with QWERTY:
 
